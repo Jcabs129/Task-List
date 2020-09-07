@@ -1,0 +1,23 @@
+{
+  "name": "task-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcabs129/Task-List.git"
+  },
+  "author": "James c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcabs129/Task-List/issues"
+  },
+  "homepage": "https://github.com/Jcabs129/Task-List#readme",
+  "devDependencies": {
+    "cypress": "^5.1.0"
+  }
+}
