@@ -6,7 +6,9 @@
 - to run `parcel index.html`
 - use local host url `http://localhost:1234`
 
-### structure
+### Structure
+https://courses.wesbos.com/account/access/5e87246d9edbdf363811b51a/view/375774374
+
 In order to create the structure of this project we need a number of functions that;
 - handle submit when add an item to the list
 - display the item in a list view, along with the properties that define each item; value, type, button, itemId
