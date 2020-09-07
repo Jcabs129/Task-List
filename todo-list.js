@@ -1,6 +1,3 @@
-
-// https://courses.wesbos.com/account/access/5e87246d9edbdf363811b51a/view/375774374
-
 const todoForm = document.querySelector('.todo');
 const list = document.querySelector('.list');
 
