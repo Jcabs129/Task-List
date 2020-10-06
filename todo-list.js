@@ -37,12 +37,14 @@ function displayItems() {
     .map(
       item => `<li class="shopping-item">
       <input
+          data-qa="checkItem"
           value="${item.id}"
           type= "checkbox"
           ${item.complete && 'checked'}
       >
       <span class="itemName">${item.name}</span>
-      <button 
+      <button
+        data-qa="deleteItem"
         aria-label="Remove ${item.name}"
         value="${item.id}"
         >&times;</button>

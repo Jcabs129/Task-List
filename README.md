@@ -7,8 +7,8 @@
 - use local host url `http://localhost:1234`
 
 ### cypress start
-- cd directory "/seetung-up-cypress-sutomation"
-- Invoke the command from your project root `npm run cypress:open` (terminal)
+- cd directory "/setting-up-cypress-sutomation"
+- Invoke the command from your project root `npx cypress open` (terminal)
 
 ### structure
 In order to create the structure of this project we need a number of functions that;
